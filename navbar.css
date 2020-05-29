@@ -1,0 +1,29 @@
+#navbar{
+	margin:0%;
+	position: sticky;
+	display: flex;
+	align-items: center;
+	height:12%;
+	border-bottom:solid 3px #B0C4DE;
+}
+.elementNav {
+	color: gray;
+	padding:4px;
+	width:1%;
+}
+#imeTag {
+	width:12%;
+	padding-left:10%;
+	color:#B0C4DE;
+}
+a.navigacija{
+	text-decoration: none;
+	color:gray;
+}
+a.navigacija:hover{
+	color:#B0C4DE;
+}
+#logo {
+	width:400%;
+	height:60%;
+}
